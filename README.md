@@ -86,6 +86,3 @@ target_include_directories(${CMAKE_PROJECT_NAME} PRIVATE
 * Tested on STM32F1 series using HAL + DMA.
 * MINMEA is lightweight and doesn't require dynamic memory.
 * Use an oscilloscope or logic analyzer if you have trouble syncing UART.
-
-```
-```
